@@ -2,7 +2,7 @@
 /////////////////////////////////////////////////////////////
 // GroupManager - Group Deduction System                   //
 // (c) Copyright by Vasian CEPA. All rights reserved.      //
-// http://madebits.com                                 //
+//                                  //
 /////////////////////////////////////////////////////////////
 
 #ifndef VUTILS_H

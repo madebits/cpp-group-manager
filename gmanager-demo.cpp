@@ -3,7 +3,7 @@
 /////////////////////////////////////////////////////////////
 // GroupManager - Group Deduction System                   //
 // (c) Copyright by Vasian CEPA. All rights reserved.      //
-// http://madebits.com                                //
+//                                 //
 /////////////////////////////////////////////////////////////
 
 #include "menu.h"
